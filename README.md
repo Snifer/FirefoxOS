@@ -20,7 +20,14 @@ relacionados a la actualizacion y rooteo de telefonos con Firefox OS
 
 
 Si tienes algun aporte no duden en avisar.
+
 Twitter:@sniferl4bs
+
+
 Blog: www.sniferl4bs.com
+
+
 Regards,
+
+
 Snifer
