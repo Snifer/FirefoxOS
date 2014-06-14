@@ -1,0 +1,33 @@
+ Crear un iconos Firefox OS con Gimp
+Lo primero es diseñar o buscar una imagen que nos guste para crear el icono. Una vez que la tengamos hay que abrirla con Gimp y recortamos la imagen (para 
+cuadrar la imagen antes de escalarla).
+
+    Herramientas > Herramientas de transformación > Recortar
+    Ventanas > Dialogo empotrables > Opciones de Carpeta
+    Fijo: Proporción aspecto  1:1
+    Ajustamos y realizamos doble click.
+
+
+Ahora vamos a escalar la imagen a un tamaño de 128x128
+
+    Seleccionar > Seleccionar todo
+    Imagen > Escalar:  128x128
+
+
+El siguiente paso es crear el borde
+
+    Seleccionar > Seleccionar todo
+    Seleccionar > Encoger [Shrink]... 
+    Aproximadamente serán 12 pixeles
+    Seleccionar > Rectángulo redondeado
+    Aproximadamente serán 8 pixeles
+
+Por último, creamos la capa transparente
+
+    Capa > Máscara > Añadir máscara de capa > Selección
+
+Con esto tendríamos la imagen preparada para exportarla en el formato que necesitemos y listo.
+
+
+Fuente:http://jesusbotias.blogspot.com/2014/01/crear-un-iconos-firefox-os-con-gimp.html
+Consultado 14 de Junio del 2014
